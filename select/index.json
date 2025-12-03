@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Sesame",
+  "base_artist": "Kroi",
+  "createdAt": "2025-12-03T06:42:35.211496Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sesame Street",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/01_Sesame_Street_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Open Sesame",
+      "artist": "Leila K",
+      "has_synced": true,
+      "path": "select/02_Open_Sesame_Leila_K.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Open Sesame",
+      "artist": "Kool & The Gang",
+      "has_synced": true,
+      "path": "select/03_Open_Sesame_Kool_&_The_Gang.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sesame Street",
+      "artist": "Goodie Mob",
+      "has_synced": true,
+      "path": "select/04_Sesame_Street_Goodie_Mob.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sesame Street",
+      "artist": "Goodie Mob",
+      "has_synced": true,
+      "path": "select/05_Sesame_Street_Goodie_Mob.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sesame Street Is No Place for Me",
+      "artist": "A Lot Like Birds",
+      "has_synced": false,
+      "path": "select/06_Sesame_Street_Is_No_Place_for_Me_A_Lot_Like_Birds.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sesame Street Is No Place for Romance",
+      "artist": "A Lot Like Birds",
+      "has_synced": true,
+      "path": "select/07_Sesame_Street_Is_No_Place_for_Romance_A_Lot_Like_Birds.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sesame Syrup",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/08_Sesame_Syrup_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Open Sesame - Pt. 1",
+      "artist": "Kool & The Gang",
+      "has_synced": false,
+      "path": "select/09_Open_Sesame_-_Pt._1_Kool_&_The_Gang.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Open Sesame (Live)",
+      "artist": "Kool & The Gang",
+      "has_synced": false,
+      "path": "select/10_Open_Sesame_(Live)_Kool_&_The_Gang.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Open Sesame",
+      "artist": "Edguy",
+      "has_synced": true,
+      "path": "select/11_Open_Sesame_Edguy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Can You Tell Me How to Get to Sesame Street?",
+      "artist": "The Free Design",
+      "has_synced": true,
+      "path": "select/12_Can_You_Tell_Me_How_to_Get_to_Sesame_Street_The_Free_Design.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Open Sesame",
+      "artist": "Leila K",
+      "has_synced": false,
+      "path": "select/13_Open_Sesame_Leila_K.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sesame",
+      "artist": "Touché Amoré",
+      "has_synced": true,
+      "path": "select/14_Sesame_Touché_Amoré.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Open Sesame - Radio Edit",
+      "artist": "Leila K",
+      "has_synced": false,
+      "path": "select/15_Open_Sesame_-_Radio_Edit_Leila_K.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Open Sesame : Open Sesame (Radio Edit)",
+      "artist": "Leila K",
+      "has_synced": false,
+      "path": "select/16_Open_Sesame___Open_Sesame_(Radio_Edit)_Leila_K.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sesame Street Theme",
+      "artist": "Ernie",
+      "has_synced": false,
+      "path": "select/17_Sesame_Street_Theme_Ernie.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Open Sesame Part 1",
+      "artist": "Kool & The Gang",
+      "has_synced": false,
+      "path": "select/18_Open_Sesame_Part_1_Kool_&_The_Gang.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Open Sesame (long version)",
+      "artist": "Leila K",
+      "has_synced": false,
+      "path": "select/19_Open_Sesame_(long_version)_Leila_K.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sesame",
+      "artist": "Kroi",
+      "has_synced": false,
+      "path": "select/pl_01_Sesame_Kroi.txt"
+    }
+  ]
+}
